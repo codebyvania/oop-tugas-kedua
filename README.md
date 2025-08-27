@@ -47,7 +47,7 @@ _**🔹 Constructor**_
 * Constructor adalah *method khusus* yang dipanggil saat objek dibuat dengan new.
 * Fungsinya untuk *mengisi nilai awal (inisialisasi)* atribut dalam class.
 
-Maka otomatis atribut maskapai dan kapasitas langsung terisi.
+ Maka otomatis atribut maskapai dan kapasitas langsung terisi.
 
 _**🔹 Super**_
 
