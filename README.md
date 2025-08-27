@@ -5,7 +5,9 @@
 Projek ini dibuat untuk mempelajari **OOP (Object Oriented Programming) di Java** dengan konsep:
 
 _**Inheritance (extends)**_ → pewarisan atribut dari superclass.
+
 _**Interface (implements)**_ → mendefinisikan method yang wajib diimplementasikan.
+
 _**Constructor**_ → fungsi khusus untuk menginisialisasi objek.
 
 Projek ini mensimulasikan alur kerja "_Pesawat Komersial"_ di bandara, mulai dari persiapan, penerbangan, hingga pelayanan penumpang.
